@@ -5,7 +5,7 @@
 🧠 Exploring the fascinating world of machine learning and neural networks<br>
 💡 Always eager to innovate and contribute to open-source projects<br>
 📚 Continuously learning and sharing knowledge to push boundaries in tech<br>
-<a href="/https://knowasjohn.github.io/portfolio/" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20240115/ourmid/pngtree-blue-website-icon-vector-png-image_11438142.png" alt="https://knowasjohn.github.io/portfolio/" height="30" width="30" font-color="white"/>Portfolio</a>
+<a href="/https://knowasjohn.github.io/portfolio/" target="blank">🌐Portfolio</a>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnantony-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ja416271@gmail.com)
 # 💻 Tech Stack:
