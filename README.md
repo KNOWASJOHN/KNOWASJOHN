@@ -1,10 +1,10 @@
 # 💫 About Me:
-👋 Hi, I'm John Antony!
-🚀 First-year CSE (DS) student at CCE Kerala
-🤖 Passionate about Artificial Intelligence and Deep Learning
-🧠 Exploring the fascinating world of machine learning and neural networks
-💡 Always eager to innovate and contribute to open-source projects
-📚 Continuously learning and sharing knowledge to push boundaries in tech
+👋 Hi, I'm John Antony!<br>
+🚀 First-year CSE (DS) student at CCE Kerala<br>
+🤖 Passionate about Artificial Intelligence and Deep Learning<br>
+🧠 Exploring the fascinating world of machine learning and neural networks<br>
+💡 Always eager to innovate and contribute to open-source projects<br>
+📚 Continuously learning and sharing knowledge to push boundaries in tech<br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
