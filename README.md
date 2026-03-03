@@ -45,10 +45,6 @@ Currently focused on building intuition in deep learning, tinkering with models,
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=KNOWASJOHN&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&hide_title=true&bg_color=00000000" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNOWASJOHN&theme=github_dark&hide_border=true&layout=compact&hide_title=true&bg_color=00000000" />
-
 <br>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=KNOWASJOHN&theme=github-dark-blue&hide_border=true&background=00000000" />
