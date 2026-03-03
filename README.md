@@ -39,6 +39,12 @@ Currently focused on building intuition in deep learning, tinkering with models,
 ![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d0d?style=flat-square&logo=python&logoColor=white)
 
+**Mobile / BaaS**&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=flutter&logoColor=54C5F8)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Railway](https://img.shields.io/badge/Railway-0d0d0d?style=flat-square&logo=railway&logoColor=white)
+
 <br>
 
 ## &nbsp;&nbsp;Stats
