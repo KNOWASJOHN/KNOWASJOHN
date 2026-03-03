@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=John+Antony." alt="Name" />
 
-**`AI · Deep Learning · CSE (DS) @ CCE Kerala`**
+**`Flutter · Deep Learning · CSE (DS) @ CCE Kerala`**
 
 <br>
 
