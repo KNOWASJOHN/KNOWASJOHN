@@ -1,26 +1,78 @@
-# 💫 About Me:
-👋 Hi, I'm John Antony!<br>
-🚀 First-year CSE (DS) student at CCE Kerala<br>
-🤖 Passionate about Artificial Intelligence and Deep Learning<br>
-🧠 Exploring the fascinating world of machine learning and neural networks<br>
-💡 Always eager to innovate and contribute to open-source projects<br>
-📚 Continuously learning and sharing knowledge to push boundaries in tech<br>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnantony-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ja416271@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://portfolio-eosin-eight-22.vercel.app/)
-[![Vercel](https://img.shields.io/badge/Vercel-292929)](https://vercel.com/ja416271-3605)
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=John+Antony." alt="Name" />
 
+**`AI · Deep Learning · CSE (DS) @ CCE Kerala`**
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=KNOWASJOHN&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=KNOWASJOHN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KNOWASJOHN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=3000&color=666666&center=true&vCenter=true&width=500&lines=Building+at+the+intersection+of+data+%26+intelligence.;Neural+networks+fascinate+me.;Open+source+contributor+in+progress." alt="Subtitle" />
+
+</div>
+
+<br>
+
+---
+
+## &nbsp;&nbsp;About
+
+I'm a first-year **Computer Science (Data Science)** student at CCE Kerala, deep in the rabbit hole of AI and machine learning. I find neural architectures genuinely exciting — not just as tools, but as a window into how intelligence itself might work.
+
+Currently focused on building intuition in deep learning, tinkering with models, and contributing wherever I can.
+
+<br>
+
+## &nbsp;&nbsp;Stack
+
+**Languages**&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-0d0d0d?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=white)
+
+**ML / DL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logo=opencv&logoColor=5C3EE8)
+
+**Data**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d0d?style=flat-square&logo=python&logoColor=white)
+
+<br>
+
+## &nbsp;&nbsp;Stats
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=KNOWASJOHN&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&hide_title=true&bg_color=00000000" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNOWASJOHN&theme=github_dark&hide_border=true&layout=compact&hide_title=true&bg_color=00000000" />
+
+<br>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=KNOWASJOHN&theme=github-dark-blue&hide_border=true&background=00000000" />
+
+</div>
+
+<br>
+
+## &nbsp;&nbsp;Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/johnantony-/)
+[![Gmail](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ja416271@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-eosin-eight-22.vercel.app/)
+
+<br>
+
+---
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KNOWASJOHN/KNOWASJOHN/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KNOWASJOHN/KNOWASJOHN/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/KNOWASJOHN/KNOWASJOHN/output/github-snake.svg" />
 </picture>
+
+</div>
