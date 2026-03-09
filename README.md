@@ -63,7 +63,7 @@ Currently focused on building intuition in deep learning, tinkering with models,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/johnantony-/)
 [![Gmail](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ja416271@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=flat-square&logo=vercel&logoColor=white)]([https://portfolio-eosin-eight-22.vercel.app/](https://known-as-john.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=flat-square&logo=vercel&logoColor=white)]([https://known-as-john.vercel.app/])
 
 <br>
 
